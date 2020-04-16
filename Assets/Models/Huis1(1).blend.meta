@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 50fd521bce1a05e49ab4a13e5ef2ca8f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Floor
+    100002: FrontDoor
+    100004: FrontDoorGlass
+    100006: FrontDoorHinge
+    100008: HallLivingRoomDoor
+    100010: HallLivingRoomDoorGlass
+    100012: HallLivingRoomDoorHinge
+    100014: HallStairDoor
+    100016: HallStairDoorGlass
+    100018: HallStairDoorHinge
+    100020: House
+    100022: //RootNode
+    100024: Mailbox
+    100026: MailboxDoor
+    100028: StairLivingRoomDoor
+    100030: StairLivingRoomDoorGlass
+    100032: StairLivingRoomDoorHinge
+    100034: ToiletDoor
+    100036: ToiletDoorHinge
+    400000: Floor
+    400002: FrontDoor
+    400004: FrontDoorGlass
+    400006: FrontDoorHinge
+    400008: HallLivingRoomDoor
+    400010: HallLivingRoomDoorGlass
+    400012: HallLivingRoomDoorHinge
+    400014: HallStairDoor
+    400016: HallStairDoorGlass
+    400018: HallStairDoorHinge
+    400020: House
+    400022: //RootNode
+    400024: Mailbox
+    400026: MailboxDoor
+    400028: StairLivingRoomDoor
+    400030: StairLivingRoomDoorGlass
+    400032: StairLivingRoomDoorHinge
+    400034: ToiletDoor
+    400036: ToiletDoorHinge
+    2100000: Wall
+    2100002: wall2
+    2100004: No Name
+    2100006: Wood
+    2300000: Floor
+    2300002: FrontDoor
+    2300004: FrontDoorGlass
+    2300006: HallLivingRoomDoor
+    2300008: HallLivingRoomDoorGlass
+    2300010: HallStairDoor
+    2300012: HallStairDoorGlass
+    2300014: House
+    2300016: Mailbox
+    2300018: MailboxDoor
+    2300020: StairLivingRoomDoor
+    2300022: StairLivingRoomDoorGlass
+    2300024: ToiletDoor
+    3300000: Floor
+    3300002: FrontDoor
+    3300004: FrontDoorGlass
+    3300006: HallLivingRoomDoor
+    3300008: HallLivingRoomDoorGlass
+    3300010: HallStairDoor
+    3300012: HallStairDoorGlass
+    3300014: House
+    3300016: Mailbox
+    3300018: MailboxDoor
+    3300020: StairLivingRoomDoor
+    3300022: StairLivingRoomDoorGlass
+    3300024: ToiletDoor
+    4300000: House
+    4300002: Floor
+    4300004: FrontDoor
+    4300006: FrontDoorGlass
+    4300008: Mailbox
+    4300010: MailboxDoor
+    4300012: HallLivingRoomDoor
+    4300014: HallLivingRoomDoorGlass
+    4300016: StairLivingRoomDoor
+    4300018: StairLivingRoomDoorGlass
+    4300020: HallStairDoor
+    4300022: HallStairDoorGlass
+    4300024: ToiletDoor
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
